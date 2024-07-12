@@ -4,7 +4,7 @@ This project demonstrates how to predict stock prices using a Long Short-Term Me
 
 It is then split into mainly two parts- training and testing upon which, the model is built trained and applied. The result gives a fairly accurate prediction.
 
-The following Python packages are required to run the code:
+The following Python packages are used:
 - pandas
 - matplotlib
 - numpy
